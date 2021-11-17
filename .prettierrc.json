@@ -1,0 +1,16 @@
+{
+	"trailingComma": "es5",
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"importOrder": [
+		"^react$",
+		"^next/(.*)$",
+		"^@.*",
+		"^[A-Z]",
+		"^[a-z]",
+		"^[../]",
+		"^[./]",
+		".*"
+	]
+}
