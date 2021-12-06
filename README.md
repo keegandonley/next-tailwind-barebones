@@ -1,6 +1,8 @@
 # NextJS + TailwindCSS + Typescript
+
 This is a NexJS app template in Typescript that is super barebones and doesn't include much other than TailwindCSS. This is a configuration I find most common for my own applications and hopefully it can speed up the bootstrapping process for you too!
 
+[Live Example on Vercel](https://next-tailwind-barebones.vercel.app/)
 
 # Deploy your own
 
